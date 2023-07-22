@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "xyx",
+      "email": "xyz@gmail.com",
+      "password": 1234,
+      "phn":7259597880
+    },
+    {
+      "id": 2,
+      "name": "xyy",
+      "email": "xyy@gmail.com",
+      "password": 123456,
+      "phn":7259597881
+    },
+    {
+      "id": 3,
+      "name": "xyx",
+      "email": "xyx@gmail.com",
+      "password": 12345678,
+      "phn":7259597882
+    }
+    
+  ]
+}
